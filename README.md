@@ -22,6 +22,9 @@ Script for installing strongswan, setting login:password combos and configuring 
 
 ## `setup_vpn.sh`
 Combination of 2 above with no `sudo` statements
+
+### Variables:
+
 Uses variables from both scripts above
 
 ## Links
